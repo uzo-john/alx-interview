@@ -1,1 +1,1 @@
-project on pascal triangle using python 
+alx interview on pascal triangle
