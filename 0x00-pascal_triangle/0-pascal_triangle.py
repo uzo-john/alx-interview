@@ -30,3 +30,8 @@ def pascal_triangle(n):
         triangle.append(row)
 
     return triangle
+
+
+if __name__ == "__main__":
+    # Run the test cases using pytest
+    pytest.main([__file__])
